@@ -1,4 +1,4 @@
-Gerenciador de Tarefas API
+## Gerenciador de Tarefas API
 
 Projeto desenvolvido para aprendizado de desenvolvimento backend utilizando Python e FastAPI.
 
