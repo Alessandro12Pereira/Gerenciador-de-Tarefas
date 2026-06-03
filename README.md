@@ -51,7 +51,7 @@ projeto-gerenciamento/
 ├── requirements.txt    # Dependências do projeto
 ├── .gitignore          # Arquivos ignorados pelo Git
 └── venv/               # Ambiente virtual (não versionado)
-
+```
 ## Como Executar
 
 ### Ativar ambiente virtual
