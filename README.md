@@ -30,13 +30,13 @@ Criar uma API de gerenciamento de tarefas e evoluí-la gradualmente com tecnolog
 
 ## Funcionalidades da Versão 2.0
 
-Integração com banco de dados MySQL  
-Persistência de dados com SQLAlchemy ORM  
-Criação automática de tabelas a partir dos models  
-CRUD completo conectado ao banco de dados  
-Gerenciamento de sessões com SQLAlchemy  
-Consultas no banco (query, filter, first, all)  
-Melhoria na estrutura do backend com separação entre model e conexão 
+- Integração com banco de dados MySQL  
+- Persistência de dados com SQLAlchemy ORM  
+- Criação automática de tabelas a partir dos models  
+- CRUD completo conectado ao banco de dados  
+- Gerenciamento de sessões com SQLAlchemy  
+- Consultas no banco (query, filter, first, all)  
+- Melhoria na estrutura do backend com separação entre model e conexão 
 
 
 ## Estrutura Atual
