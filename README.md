@@ -73,8 +73,8 @@ http://127.0.0.1:8000/docs
 - [x] Tratamento de erros
 
 ### Versão 2.0
-- [ ] Integração com MySQL
-- [ ] SQLAlchemy
+- [x] Integração com MySQL
+- [x] SQLAlchemy
 
 ### Versão 3.0
 - [ ] Organização em camadas
